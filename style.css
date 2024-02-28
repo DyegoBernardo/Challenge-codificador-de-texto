@@ -39,7 +39,7 @@ main {
 
 .mensagem {
     background-color:  rgb(238, 231, 231);
-    background-image: url(/assets/boneco.png);
+    background-image: url(./assets/boneco.png);
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
